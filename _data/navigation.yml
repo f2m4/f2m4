@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "帮助"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "关于我"
+    url: /about/
+  - title: "时间线"
+    url: /year-archive/
+  - title: "集合"
+    url: /collection-archive/
+  - title: "网站地图"
+    url: /sitemap/
